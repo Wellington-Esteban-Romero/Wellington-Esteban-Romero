@@ -1,23 +1,22 @@
 
-<!--
-**Wellington-Esteban-Romero/Wellington-Esteban-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wellington Romero 👨‍💻  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wrgenovezzi/)](https://www.linkedin.com/in/wrgenovezzi/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wellington-Esteban-Romero)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¡Hola! 👋 Bienvenido a mi perfil  
 
+### 🚀 Tecnologías y herramientas:  
+- 🖥️ **Backend:** Java | Jakarta EE | Spring Boot  
+- 🌐 **Frontend:** Angular | JavaScript  
+- 🛢️ **Base de datos:** Oracle Developer  
+- 🔧 **Otras herramientas:** Git | Docker  
 
-# Wellington Romero :man_technologist:
+### 📌 Sobre mí:  
+🔭 **Actualmente trabajando en:** Desarrollo de aplicaciones empresariales con **Java y Spring Boot**.  
+🌱 **Aprendiendo:** Arquitectura de software y nuevas tendencias en **Angular y JavaScript**.  
+👯 **Buscando colaborar en:** Proyectos de código abierto y soluciones empresariales.  
+📫 **Cómo contactarme:** A través de [LinkedIn](https://www.linkedin.com/in/wrgenovezzi/).  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/wrgenovezzi/")](https://www.linkedin.com/in/wrgenovezzi/)
-
-### Hellooo! 👋 Welcome to my profile
+⚡ **Dato curioso:** ¡Siempre buscando aprender algo nuevo en el mundo de la tecnología! 🚀  
 
