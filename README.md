@@ -8,14 +8,13 @@
 
 ### 🚀 Tecnologías y herramientas:  
 - 🖥️ **Backend:** Java | Jakarta EE | Spring Boot  
-- 🌐 **Frontend:** Angular | JavaScript  
+- 🌐 **Frontend:** JSP | Angular | JavaScript  
 - 🛢️ **Base de datos:** Oracle Developer  
-- 🔧 **Otras herramientas:** Git | Docker  
+- 🔧 **Otras herramientas:** Git | Jenkins  
 
 ### 📌 Sobre mí:  
 🔭 **Actualmente trabajando en:** Desarrollo de aplicaciones empresariales con **Java y Spring Boot**.  
-🌱 **Aprendiendo:** Arquitectura de software y nuevas tendencias en **Angular y JavaScript**.  
-👯 **Buscando colaborar en:** Proyectos de código abierto y soluciones empresariales.  
+🌱 **Aprendiendo:** Arquitectura de software y nuevas tendencias en **Angular y KOTLIN**.  
 📫 **Cómo contactarme:** A través de [LinkedIn](https://www.linkedin.com/in/wrgenovezzi/).  
 
 ⚡ **Dato curioso:** ¡Siempre buscando aprender algo nuevo en el mundo de la tecnología! 🚀  
